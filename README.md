@@ -1,16 +1,12 @@
 ### Eae,Tranquilo! me chamo Max
 
 - 🏭 Autonomo como analista de suporte N2.
-- 📚 Estudando HTML5, CSS3 e JavaScript.
-- 💻 Estudando Cloud AWS pela Escola da Nuvem.
+- 💻 Estudando Python.
 
 
 
 <div style="display: inline-block"><br>
     <img aling="center" alt="Max-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    <img aling="center" alt="Max-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-    <img aling="center" alt="Max-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-    <img aling="center" alt="Max-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
     <img aling="center" alt="Max-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
     <img aling="center" alt="Max-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
     <img aling="center" alt="Max-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/><p>
