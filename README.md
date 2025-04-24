@@ -1,6 +1,6 @@
 ### Eae,Tranquilo! me chamo Max
 
-- 🏭 Autonomo como analista de suporte N2.
+- 🏭 Autonomo como analista de suporte e Manutenção.
 - 💻 Estudando Python.
 
 
