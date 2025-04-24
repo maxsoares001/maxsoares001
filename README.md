@@ -1,4 +1,4 @@
-### Eae,Tranquilo! me chamo Max
+### Eae,Tranquilo! meu nome é Max!
 
 - 🏭 Autonomo como analista de suporte e Manutenção.
 - 💻 Estudando Python.
