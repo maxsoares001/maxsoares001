@@ -1,9 +1,6 @@
 ### Olá, seja bem vindo! Me chamo Max!
 
-🖥️ Suporte remoto rápido e seguro
-⚙️ Manutenção e soluções em TI
-
-
+🖥️ Eu trabalho com manutenção e suporte, e estudo um pouco de programação e IA já para facilitar os meus trabalhos!
 
 
 <div style="display: inline-block"><br>
