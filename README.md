@@ -1,12 +1,14 @@
-### Olá, seja bem vindo! meu nome é Max!
+### Olá, seja bem vindo! Me chamo Max!
 
-- 🏭 Autonomo como analista de suporte e Manutenção.
-- 💻 Estudando Python.
+🖥️ Suporte remoto rápido e seguro
+⚙️ Manutenção e soluções em TI
+
 
 
 
 <div style="display: inline-block"><br>
-    <img aling="center" alt="Max-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
     <img aling="center" alt="Max-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
     <img aling="center" alt="Max-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
     <img aling="center" alt="Max-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/><p>
