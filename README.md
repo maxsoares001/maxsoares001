@@ -16,4 +16,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://maxsoares001@gmail.com)
 [![Doulingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/maxsoares2)
 
-![Max GitHub stats](https://github-readme-stats.vercel.app/api?username=maxsoares001&show_icons=true&theme=dark)
+
