@@ -1,6 +1,6 @@
 ### Olá, seja bem vindo! Me chamo Max!
 
-🖥️ Eu trabalho com manutenção e suporte, e estudo um pouco de programação e IA já para facilitar os meus trabalhos!
+🖥️ Eu trabalho com manutenção e suporte, e estudo um pouco de programação e IA!
 
 
 <div style="display: inline-block"><br>
