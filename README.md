@@ -15,8 +15,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-soares-38916119b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://maxsoares001@gmail.com)
 [![Doulingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/maxsoares2)
-[![Fé](https://img.shields.io/badge/Fé%20%7C%20Disciplina%20%7C%20Propósito-6B4F1D?style=for-the-badge&logo=bookstack&logoColor=white)](https://bible.com/users/maxgaman2)
-[![Strava](https://img.shields.io/badge/Strava-Run%20%7C%20Ride%20%7C%20Evolve-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://strava.app.link/aSGpRGbCP0b)
+[![Holy Bible](https://img.shields.io/badge/Holy%20Bible-6B4F1D?style=for-the-badge&logo=bookstack&logoColor=white)](https://bible.com/users/maxgaman2)
+[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://strava.app.link/aSGpRGbCP0b)
 
 
 
