@@ -3,7 +3,7 @@
 🖥️ Eu trabalho com manutenção e suporte, e estudo um pouco de programação e IA!
 
 
-<div style="display: inline-block"><br>
+<div style="display: inline-block">
     <img aling="center" alt="Max-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
     <img aling="center" alt="Max-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
     <img aling="center" alt="Max-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
