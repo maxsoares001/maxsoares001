@@ -3,7 +3,7 @@
 🖥️ Eu trabalho com manutenção e suporte, e estudo um pouco de programação e IA!
 
 
-<table border="0">
+<table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" /></td>
